@@ -1,5 +1,5 @@
-# Forst-project
-<!doctype html>
+
+<!doctype html
 <html>
 <head>
 <title>For st.</title>
